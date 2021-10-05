@@ -2,7 +2,7 @@
 
 Computer engineering student at Kocaeli University.
 
-🌱 I’m currently learning **ROS, Real-Time Object Detection and Flutter**
+🌱 I’m currently learning **ROS, Visual SLAM**
 
 :ocean: I’m part of the **AUV(Autonomous Underwater Vehicle)** team and working on real-time object detection and autonomous navigation
 
