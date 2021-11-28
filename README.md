@@ -3,7 +3,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
 🎓 Final year undergraduate Computer Engineering student @ Kocaeli University.
+
 🌱 I’m currently learning **ROS-based Visual SLAM Methods, Point Cloud Based 3D Object Detection**
+
 :airplane: Software Developer @ KOUSTECH
 
 ### 🛠 &nbsp;Tech Stack
