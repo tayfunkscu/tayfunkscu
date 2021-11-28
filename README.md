@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
+<h2> About Me <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></h2>
 
 🎓 Final year undergraduate Computer Engineering student @ Kocaeli University.
 
