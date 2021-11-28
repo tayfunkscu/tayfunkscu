@@ -1,4 +1,4 @@
-<h2> About Me <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></h2>
+<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px> About Me</h2>
 
 🎓 Final year undergraduate Computer Engineering student @ Kocaeli University.
 
@@ -29,6 +29,8 @@
     </a>
   </p>
 </div>
+
+<br>
 
 ![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunkscu&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkscu&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
