@@ -1,10 +1,6 @@
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px> About Me</h2>
 
-🎓 Final year undergraduate Computer Engineering student @ Kocaeli University.
-
-🌱 I’m currently learning **ROS-based Visual SLAM Methods, Point Cloud Based 3D Object Detection**
-
-:airplane: Software Developer @ KOUSTECH
+🎓  M.Sc. in Computer Engineering @ Kocaeli University.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -12,7 +8,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
